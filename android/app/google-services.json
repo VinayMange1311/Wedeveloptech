@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "957232834997",
+    "project_id": "wedeveloptech-e2f61",
+    "storage_bucket": "wedeveloptech-e2f61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957232834997:android:4ed5cd6f0caadd7cc411fc",
+        "android_client_info": {
+          "package_name": "com.wedeveloptech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957232834997-h3dps01626bptihf3e9fg3qjad47mnqd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wedeveloptech",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "957232834997-bb362m90upudknutuo4k8dameuro2nmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQkiUQGkTe9vFI0RFIKGqIjtmeGvAWpxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957232834997-bb362m90upudknutuo4k8dameuro2nmn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
